@@ -6,3 +6,6 @@ http://www.iamued.com
 ###使用方法
 >Usage: python shtml2html.py path
 支持文件和目录（递归处理）
+
+
+暂不更新
